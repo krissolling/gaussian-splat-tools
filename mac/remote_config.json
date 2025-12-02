@@ -1,0 +1,7 @@
+{
+  "host": "192.168.50.20",
+  "user": "krist",
+  "remote_path": "C:/splat/jobs",
+  "python_path": "C:/Users/krist/miniconda3/envs/splat/python.exe",
+  "colmap_path": "C:/splat/colmap/COLMAP.bat"
+}
